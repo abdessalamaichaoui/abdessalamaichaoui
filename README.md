@@ -12,16 +12,11 @@ A **YOLOv8-based Computer Vision project** to track and count coffee shop servic
 
 🤝 **Looking to collaborate on:**  
 - **Computer Vision** (e.g., image segmentation, object detection).  
-- **AI Generative Models** or **NLP-based solutions**.  
-- **Open-source contributions** in Python, PyTorch, or OpenCV.  
-
+- **AI Generative Models** or **NLP-based solutions**.
+  
 🌱 **Currently learning:**  
 - **LiDAR data fusion** for autonomous navigation.  
 - Optimizing **deep learning models** for production.
-
-💬 **Ask me about:**  
-- Building **AI systems** and **autonomous solutions**.  
-- Using **Deep Learning frameworks** like YOLOv8 in real-world applications.  
 
 🤔 **Fun fact:**  
 - I'm currently **seeking new opportunities**!
