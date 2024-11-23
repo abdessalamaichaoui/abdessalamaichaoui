@@ -1,5 +1,30 @@
-# 💫 About Me:
-👋 Hi, I'm Abd essalam AICHAOUI!<br><br>👨‍💻 IA | Computer Vision Engineer<br>An Artificial Intelligence Engineer graduate from Université Paris Saclay, specializing in Computer Vision with a strong background in Natural Language Processing (NLP), Generative AI, and Machine Learning. Passionate about developing innovative AI models and solutions, I thrive in dynamic, technology-driven environments.<br><br>🔭 I'm currently working on:<br>- I’m working on a Computer Vision project using YOLOv8 to track and count the number of services provided by coffee shop employees, such as coffee, juice, and tea, This system ensures accurate reporting, prevents discrepancies, and minimizes the risk of theft by verifying that all transactions are correctly recorded.<br><br> 🤝 I'm looking to collaborate on:<br>- Computer Vision projects such as image segmentation, object detection, or multi-modal data fusion.  <br>- AI Generative Models (GANs, WaveNet) or NLP-based solutions.  <br>- Contributions to open-source projects in Python, PyTorch, and OpenCV.<br>- Optimizing real-time image processing algorithms in C++.  <br>- Working on multi-camera calibration and stereo vision.<br><br>🌱 I'm currently learning:<br>- Advanced LiDAR data fusion techniques for autonomous navigation.  <br>- Enhancing performance of deep learning models in production.  <br><br>💬 Ask me about:<br>- My experience with building AI systems and autonomous vehicles.  <br>- Using Deep Learning frameworks like Detectron2 and YOLOv8 for real-world applications.  <br>- Tips for deploying multi-GPU models on AWS and managing MLOps pipelines.<br><br><br><br>🤔 Fun fact:<br>- I'm UNEMPLOYED
+Here’s a concise and polished version of your "About Me" section:
+
+---
+
+# 💫 About Me:  
+👋 Hi, I'm **Abd essalam AICHAOUI!**  
+👨‍💻 **AI | Computer Vision Engineer**  
+AI Engineer graduate from **Université Paris Saclay**, specializing in **Computer Vision** with experience in **NLP**, **Generative AI**, and **Machine Learning**. Passionate about developing innovative AI solutions and adapting to the latest technologies.
+
+🔭 **Currently working on:**  
+A **YOLOv8-based Computer Vision project** to track and count coffee shop services (e.g., coffee, juice, tea), ensuring accurate reporting and preventing discrepancies.
+
+🤝 **Looking to collaborate on:**  
+- **Computer Vision** (e.g., image segmentation, object detection).  
+- **AI Generative Models** or **NLP-based solutions**.  
+- **Open-source contributions** in Python, PyTorch, or OpenCV.  
+
+🌱 **Currently learning:**  
+- **LiDAR data fusion** for autonomous navigation.  
+- Optimizing **deep learning models** for production.
+
+💬 **Ask me about:**  
+- Building **AI systems** and **autonomous solutions**.  
+- Using **Deep Learning frameworks** like YOLOv8 in real-world applications.  
+
+🤔 **Fun fact:**  
+- I'm currently **seeking new opportunities**!
 
 
 ## 🌐 Socials:
