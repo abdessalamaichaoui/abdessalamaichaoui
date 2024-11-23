@@ -1,7 +1,3 @@
-Here’s a concise and polished version of your "About Me" section:
-
----
-
 # 💫 About Me:  
 👋 Hi, I'm **Abd essalam AICHAOUI!**  
 👨‍💻 **AI | Computer Vision Engineer**  
